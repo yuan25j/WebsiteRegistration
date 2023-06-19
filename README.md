@@ -1,3 +1,5 @@
+## Overview
+This project is a combination of an angular frontend paired with a fast API Python backend. It allows a user to register for a website, and consequently sign in using a unique id. The system then creates a check-in under their account which tracks the time created, name, etc. These accounts and check-ins can be deleted from an admin account. All data is stored locally in each running instance.
 ## Setup
 
 Open the project in a VSCode DevContainer.
